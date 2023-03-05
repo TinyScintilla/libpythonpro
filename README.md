@@ -8,6 +8,19 @@ Neste curso é ensinado como contribuir com projetos de código aberto.
 
 Suportada a versão 3 de Python
 
+Para instalar: 
+````commandline
+py -3 -m venv .venv    
+.venv/Scripts/activate
+pip install -r requirements-dev.txt
+   
+````
+
+Para conferir qualidade do código:
+````commandline
+flake8
+````
+
 Típicos a serem abordados:  
     1. Git  
     2. Virtualenv  
