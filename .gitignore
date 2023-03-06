@@ -130,3 +130,5 @@ dmypy.json
 
 #PyCharm's config
 .idea/
+
+.flake8
