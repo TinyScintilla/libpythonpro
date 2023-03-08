@@ -1,4 +1,5 @@
 # libpythonpro
+
 [ REPOSITÓRIO DE EXERCÍCIO ]
 https://github.com/R-Lemos-prog/libpythonpro/actions/workflows/python-app.yml/badge.svg
 ![example workflow](https://github.com/R-Lemos-prog/docs/actions/workflows/python-app.yml/badge.svg)
@@ -28,3 +29,6 @@ Típicos a serem abordados:
     1. Git  
     2. Virtualenv  
     3. Pip
+
+
+
