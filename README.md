@@ -1,8 +1,8 @@
 # libpythonpro
 
 [ REPOSITÓRIO DE EXERCÍCIO ]
-https://github.com/R-Lemos-prog/libpythonpro/actions/workflows/python-app.yml/badge.svg
-![example workflow](https://github.com/R-Lemos-prog/docs/actions/workflows/python-app.yml/badge.svg)
+
+![example workflow](https://github.com/R-Lemos-prog/libpythonpro/actions/workflows/python-app.yml/badge.svg)
 
 
 Módulo para exemplificar construção de projetos Python no curso PyTools. 
