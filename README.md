@@ -1,4 +1,5 @@
 # libpythonpro
+
 [ REPOSITÓRIO DE EXERCÍCIO ]
 
 Módulo para exemplificar construção de projetos Python no curso PyTools. 
@@ -25,3 +26,6 @@ Típicos a serem abordados:
     1. Git  
     2. Virtualenv  
     3. Pip
+
+
+
