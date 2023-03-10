@@ -95,7 +95,7 @@ def find_package_data(
 
 
 PACKAGE = "libpythonpro"
-NAME = PACKAGE
+NAME = "libpythonpro_rl"
 DESCRIPTION = "Módulo para exemplificar construção de projetos Python no curso PyTools"
 AUTHOR = "Raiene L. Gonçalves"
 AUTHOR_EMAIL = "raienelemos@outlook.com"
@@ -110,7 +110,7 @@ setup(
     long_description_content_type='text/markdown',
     author=AUTHOR,
     author_email=AUTHOR_EMAIL,
-    license=read('LICENSE'),
+    license='GNU AFFERO GENERAL PUBLIC LICENSE',
     url=URL,
     packages=find_packages(exclude=["tests.*", "tests"]),
     package_data=find_package_data(PACKAGE, only_in_packages=False),
