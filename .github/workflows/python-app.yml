@@ -46,7 +46,7 @@ jobs:
         pytest libpythonpro
 
 
-    - nome: pip-audit
+    - name: pip-audit
       run: |
         python -m pip install pip-audit
         pip-audit -r ./requirements-dev.txt
