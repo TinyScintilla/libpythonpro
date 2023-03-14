@@ -7,7 +7,8 @@ Neste curso é ensinado como contribuir com projetos de código aberto.
 
 #### [Link da plataforma DevPro](Loginhttps://www.dev.pro.br) 
 
-![distintivo de status GA CI](https://github.com/R-Lemos-prog/libpythonpro/actions/workflows/python-app.yml/badge.svg)
+![distintivo de status GA CI](https://github.com/R-Lemos-prog/libpythonpro/actions/workflows/CI.yml/badge.svg)
+[![codecov](https://codecov.io/gh/R-Lemos-prog/libpythonpro/branch/main/graph/badge.svg?token=T50PP8I7HH)](https://codecov.io/gh/R-Lemos-prog/libpythonpro)
 
 Suportada a versão 3 de Python
 
