@@ -13,7 +13,7 @@ def avatar_url(mocker):
         'id': 62080076,
         'avatar_url': url
     }
-    get_mock = mocker.path('libpythonpro/github_API.requests.get')
+    get_mock = mocker.patch('libpythonpro.github_API.requests.get')
     get_mock.return_value = resp_mock
     return url
 
